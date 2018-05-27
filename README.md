@@ -1,7 +1,7 @@
 # One28 Website
 One28 – Promotional website
 
-<img width="1280" alt="screen shot 2018-05-27 at 7 12 53 am" src="https://user-images.githubusercontent.com/25695638/40585288-eb3371b0-617d-11e8-9673-ebd8b7c3637a.png">
+<img width="1280" alt="One28 Promo Site" src="https://user-images.githubusercontent.com/25695638/40585320-8615a32e-617e-11e8-9c5a-b9c3c49f3576.png">
 
 
 This is a website created for the promotion of One28 – An app that I am currently working on with a few other people and
